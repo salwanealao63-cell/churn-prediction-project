@@ -1,0 +1,8 @@
+venv/
+.env
+__pycache__/
+*.pkl
+*.pyc
+.DS_Store
+data/raw/
+notebooks/.ipynb_checkpoints/
